@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">mobile_programming</string>
+    <string name="contact">Contact: </string>
+    <string name="txtfield">Enter your name</string>
+    <string name="btn1">Cancel</string>
+    <string name="btn2">Submit</string>
+    <string name="na">Text field is empty</string>
+    <string name="first_row">First row</string>
+    <string name="second_row">Second row</string>
+    <string name="third_row">Third row</string>
+    <string name="text1">Text 1</string>
+    <string name="text2">Text 2</string>
+    <string name="text3">Text 3</string>
+    <string name="text4">Text 4</string>
+    <string name="full_name_hint">Enter Your Name</string>
+    <string name="formText">Form</string>
+    <string name="sportText">Which Sports do you like?</string>
+    <string name="genderText">Select your gender</string>
+    <string name="CountryText">Choose your Country</string>
+    <string name="football">FootBall</string>
+    <string name="volleyball">VolleyBall</string>
+    <string name="basketball">BasketBall</string>
+    <string name="badminton">Badminton</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="countrylist">Choose Your Country</string>
+    <string name="terms">I accept all terms and conditions.</string>
+    <string name="accountalready">Already have an Account?Login</string>
+    <string-array name="country_list">
+        <item>Nepal</item>
+        <item>Argentina</item>
+        <item>USA</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+
+    </string-array>
+
+
+
+</resources>

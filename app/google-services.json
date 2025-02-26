@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210535685226",
+    "project_id": "mobile-programming-b17b0",
+    "storage_bucket": "mobile-programming-b17b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210535685226:android:def8bbc61c1c7f16b1fe13",
+        "android_client_info": {
+          "package_name": "com.bca.mobile_programming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5m-PIlR3GquTJNiLEKQNl-OwbTgQTos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

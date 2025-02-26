@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_gray">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="24dp"
+        android:layout_y="39dp"
+        android:background="@color/cyan"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="20dp"
+        android:text="Text Box 1"
+        android:textColor="@color/black"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="110dp"
+        android:layout_y="177dp"
+        android:background="@color/pink"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="20dp"
+        android:text="Text Box 2"
+        android:textColor="@color/white"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="194dp"
+        android:layout_y="308dp"
+        android:background="@color/orange"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="20dp"
+        android:text="Text Box 3"
+        android:textColor="@color/black"
+        android:textSize="40sp" />
+</AbsoluteLayout>
