@@ -45,15 +45,31 @@
 <!--        </activity>-->
 
 
-        <activity
-            android:name=".unit_3.Login"
-                    android:exported="true">
-                    <intent-filter>
-                        <action android:name="android.intent.action.MAIN"/>
-                        <category android:name="android.intent.category.LAUNCHER"/>
-                    </intent-filter>
+<!--        <activity-->
+<!--            android:name=".unit_3.Login"-->
+<!--                    android:exported="true">-->
+<!--                    <intent-filter>-->
+<!--                        <action android:name="android.intent.action.MAIN"/>-->
+<!--                        <category android:name="android.intent.category.LAUNCHER"/>-->
+<!--                    </intent-filter>-->
 
-                </activity>
+<!--        </activity>-->
+
+        <!-- Declare Signup activity -->
+        <activity
+            android:name=".unit_4.SignUp"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <!-- Declare About activity -->
+        <activity
+            android:name=".unit_4.About"
+            android:exported="true">
+        </activity>
 
 
 
